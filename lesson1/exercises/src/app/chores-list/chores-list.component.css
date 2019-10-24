@@ -1,0 +1,14 @@
+h3 {
+    text-decoration: underline;
+    font-size: 34px;
+}
+
+li {
+    font-family: cursive;
+    font-size: 22px;
+    font-style: italic;
+}
+
+.chores {
+    color: yellow;
+}

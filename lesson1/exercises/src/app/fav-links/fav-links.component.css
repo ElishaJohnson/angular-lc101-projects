@@ -1,0 +1,10 @@
+a {
+    text-decoration: underline;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+div {
+    text-align: center;
+    background: black;
+}
